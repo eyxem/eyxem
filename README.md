@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @eyxem
 - 👀 Learn new program languages.
 - 🌱 Programming.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ System developer and game dev.
+- 📫 Instagram @niphytic.
 
 <!---
 eyxem/eyxem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
